@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, I'm Justin
+[![wakatime](https://wakatime.com/badge/github/jjcxdev/jjcxdev.svg)](https://wakatime.com/badge/github/jjcxdev/jjcxdev)
+
+⚡ I'm based in Canada<br>
+📫 You can contact me at j@jjcx.dev<br>
+🔭 I'm currently working on [PixlPal](https://www.github.com/jjcxdev/pixlpal)<br>
+🤔 I am actively seeking employment<br>
+
+
 
 <!--
 **jjcxdev/jjcxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
