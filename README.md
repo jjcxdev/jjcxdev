@@ -1,5 +1,5 @@
 ### Hello, I'm Justin
-[![wakatime](https://wakatime.com/badge/user/0ea7000e-4ae9-4473-9328-30dafb5cccb3.svg)](https://wakatime.com/@0ea7000e-4ae9-4473-9328-30dafb5cccb3)
+[![wakatime](https://wakatime.com/badge/user/0ea7000e-4ae9-4473-9328-30dafb5cccb3/project/ddb15950-4977-4a0e-a0ff-517648c3b004.svg)](https://wakatime.com/badge/user/0ea7000e-4ae9-4473-9328-30dafb5cccb3/project/ddb15950-4977-4a0e-a0ff-517648c3b004)
 
 ⚡ I'm based in Canada<br>
 📫 You can contact me at j@jjcx.dev<br>
