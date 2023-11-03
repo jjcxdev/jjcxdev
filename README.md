@@ -3,7 +3,7 @@
 ⚡ I'm based in Canada<br>
 📫 j@jjcx.dev<br>
 🔭 I built [PixlPal](https://pixlpal.vercel.app/)<br>
-🔭 I'm currently working on [BudgetBuddy](https://www.github.com/jjcxdev/budgetbuddy)<br>
+🔭 I'm currently working on [broke financial app](https://www.github.com/jjcxdev/broke)<br>
 🤔 I am actively seeking employment<br>
 
 
