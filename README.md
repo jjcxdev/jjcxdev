@@ -4,9 +4,12 @@
 
 ⚡ I'm based in Canada<br>
 📫 j@jjcx.dev<br>
+🔭 I built [VimKeyboard](https://www.github.com/jjcxdev/vim) <br>
 🔭 I built [Git Signal](https://github.com/jjcxdev/gitsignal)<br>
 🔭 I built [PixlPal](https://pixlpal.vercel.app/)<br>
-🔭 building [VimKeyboard](https://www.github.com/jjcxdev/vim) and more...<br>
+🔭 building [Callsheet](https://github.com/jjcxdev/callsheet)<br>
+🔭 building [Yokd](https://github.com/jjcxdev/yokd)<br>
+🔭 building [Neo](https://github.com/jjcxdev/neo)<br>
 🤔 I am actively seeking employment<br>
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
