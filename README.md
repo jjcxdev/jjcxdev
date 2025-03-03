@@ -4,6 +4,8 @@
 
 ⚡ I'm based in Canada<br>
 📫 j@jjcx.dev<br>
+🔭 I built [GameFriends](https://github.com/jjcxdev/gamefriends)<br>
+🔭 I built [CineList](https://github.com/jjcxdev/cinelist)<br>
 🔭 I built [VimKeyboard](https://www.github.com/jjcxdev/vim) <br>
 🔭 I built [Git Signal](https://github.com/jjcxdev/gitsignal)<br>
 🔭 I built [PixlPal](https://pixlpal.vercel.app/)<br>
